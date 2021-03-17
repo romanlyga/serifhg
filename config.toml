@@ -76,6 +76,6 @@ type = "site_menu_item"
 identifier = "lorem-ipsum"
 name = "lorem-ipsum"
 url = "lorem-ipsum"
-weight = 0
+weight = 1
 parent = "lorem-ipsum"
 type = "site_menu_item"
